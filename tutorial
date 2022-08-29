@@ -6,5 +6,6 @@ jenkins
 terraform
 git
 ansible
+sonarqube
 lets stop here for now
 
